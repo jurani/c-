@@ -17,6 +17,7 @@ namespace myvector
 			, _finish(nullptr)
 			, _endOfStorage(nullptr)
 		{}
+		 
 
 		vector(const vector<T>& v)
 			:_start(nullptr)
